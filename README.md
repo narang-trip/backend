@@ -81,7 +81,7 @@
             <img src="https://avatars.githubusercontent.com/youngkimi" width="140px" /> <br><br> ⛑ 김영섭 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/Song-YoonJae">
             <img src="./assets/윤재정장.png" width="140px" /> <br><br> ⛑ 송윤재 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/">
+        <td height="140px" align="center"> <a href="https://github.com/cyj2825">
             <img src="https://avatars.githubusercontent.com/cyj2825" width="140px" /> <br><br> ⛑ 조예진 <br>(Back-End) </a> <br></td>
     </tr>
     <tr>
