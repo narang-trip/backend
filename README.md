@@ -82,7 +82,7 @@
         <td height="140px" align="center"> <a href="https://github.com/Song-YoonJae">
             <img src="./assets/윤재정장.png" width="140px" /> <br><br> ⛑ 송윤재 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/">
-            <img src="https://avatars.githubusercontent.com/" width="140px" /> <br><br> ⛑ 조예진 <br>(Back-End) </a> <br></td>
+            <img src="https://avatars.githubusercontent.com/cyj2825" width="140px" /> <br><br> ⛑ 조예진 <br>(Back-End) </a> <br></td>
     </tr>
     <tr>
         <td align="center">UI/UX<br/>React<br/>WebSocket</td>
@@ -274,7 +274,7 @@ gRPC는 양방향 스트리밍을 지원하여 요청 없이도 데이터 전달
 
 ---
 
-Git flow 사용을 위해 우아한 형제들의 [git flow](https://techblog.woowahan.com/2553/)을 참고했습니다. front 와 back 으로 나누어 `faature`의 하위 브랜치를 사용하였으며 `develop` 브랜치와 `develop_frontend` 브랜치로 merge 하여 사용했습니다.<br>
+Git flow 사용을 위해 우아한 형제들의 [git flow](https://techblog.woowahan.com/2553/)을 참고했습니다. front 와 back 으로 나누어 `feature`의 하위 브랜치를 사용하였으며 `develop` 브랜치와 `develop_frontend` 브랜치로 merge 하여 사용했습니다.<br>
 `commit message`는 `feat: 기능 구현 내용` 과 같이 통일하여 작성했습니다.<br>
 
 ### 2. Jira
