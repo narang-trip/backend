@@ -72,7 +72,7 @@
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/yhc-key">
-            <img src="https://avatars.githubusercontent.com/yhc-key" width="140px" /> <br><br> 👑 ** </a> <br></td>
+            <img src="https://avatars.githubusercontent.com/yhc-key" width="140px" /> <br><br> 👑 조용환 </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/kbs3103">
             <img src="https://avatars.githubusercontent.com/kbs3103" width="140px" /> <br><br> ⛑ 구본승 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/se2develop">
